@@ -1,4 +1,4 @@
-const end_Date = "26 May 2024 08:18 PM" //It will change the Date....So to change the date simply change "end_Date"
+const end_Date = "25 Aug 2024 11:59 PM" //It will change the Date....So to change the date simply change "end_Date"
 
 document.getElementById("endDate").innerText = end_Date; //It will pass endDate to the HTML Code
 
